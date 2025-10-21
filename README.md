@@ -36,4 +36,4 @@ The dataset used in this project contains information about employees, including
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/salary-prediction.git
+   git clone https://github.com/Abdallah-Alhasani10/Salary-Prediction-using-Random-Forest-and-Decision-Tree.git
